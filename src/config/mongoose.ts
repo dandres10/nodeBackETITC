@@ -8,4 +8,4 @@ const mongo_uri = 'mongodb+srv://1Sistemas:<1Sistemas>@cluster0.k3y8i.mongodb.ne
             useNewUrlParser: true,
             useCreateIndex: true,
             useUnifiedTopology: true
-        });
+        }); 
